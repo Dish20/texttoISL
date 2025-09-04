@@ -34,7 +34,9 @@ Supports multiple image formats: .png, .jpg, .jpeg, .gif.
 
 Case-insensitive phrase matching (Hello, hello, HELLO all work).
 
-Displays the first matching image (can be extended to randomize).
+Displays the first matching image (can be extended to randomize
+
+---
 
 ## 🚀 Future Improvements
 
